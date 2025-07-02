@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi Masculism Kelly there 👋
 
-<!--
-**NeverBondout/NeverBondout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AI Image Generator 🌌
 
-Here are some ideas to get you started:
+A simple and powerful AI image generator built with HTML, CSS, and JavaScript.  
+Uses OpenAI's DALL·E API to generate images from text prompts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Features
+- Text-to-image generation using AI
+- Clean UI built with vanilla JavaScript
+- Supports custom prompts
+- Fast and lightweight
+
+  ---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/yourusername/ai-image-generator.git
+cd ai-image-generator
+Add your OpenAI API key to .env
+
+Open index.html in your browser
+
+---
+
+📸 Example
+
+🧠 Technologies
+HTML5
+
+CSS3
+
+JavaScript
+
+OpenAI API
+
+---
